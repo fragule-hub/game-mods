@@ -1,0 +1,694 @@
+﻿Continue	继续
+New game	新游戏
+Options	选项
+Quit	退出
+Introduction	介绍
+Menu	菜单
+Main menu	主菜单
+Main menu 	主菜单
+Back to Game	返回游戏
+Back to Inventory	返回背包
+Try again	再试一次
+Run again	再来一局
+Go Back	返回
+Inventory	背包
+Start game	开始游戏
+RESET	重置
+Re-roll Items	重抽物品
+Accept Curse	接受诅咒
+Take Item	拿取物品
+Eat Food	进食
+Equip Left	装备到左手
+Equip Right	装备到右手
+Enchant Left	附魔左手
+Enchant Right	附魔右手
+Upgrade Left	升级左手
+Upgrade Right	升级右手
+Replace Left	替换左手
+Replace Right	替换右手
+Select Starter Item	选择初始物品
+SelectStarterItem	选择初始物品
+Cap at 60 fps	60 帧上限
+Vsync	垂直同步
+Full screen	全屏
+Invert Mouse Y	鼠标 Y 轴反转
+Character	角色
+Clear saved data	清除存档数据
+reset all data	重置全部数据
+delete all data?	删除全部数据？
+REWARDS	奖励
+REWARD +	奖励 +
+REWARD +50	奖励 +50
+TOTAL REWARDS <color=orange>+	总奖励 <color=orange>+
+<color=white>TOTAL REWARDS:</color> <color=orange>+	<color=white>总奖励：</color><color=orange>+
+ADDITIONAL CURSES <color=orange>+	额外诅咒 <color=orange>+
+ALTERNATE ZONE BONUS <color=orange>+	替代区域奖励 <color=orange>+
+MAX CURSES BONUS <color=orange>+	诅咒拿满奖励 <color=orange>+
+INTEREST <color=orange>+	利息 <color=orange>+
+TITHING BONUS <color=orange>+	什一税奖励 <color=orange>+
+MASTERY BONUS <color=orange>+	精通奖励 <color=orange>+
+DEATH GHOST <color=orange>+1</color>	死亡幽灵 <color=orange>+1</color>
+SPEEDY DEATH GHOST <color=orange>+2</color>	迅捷死亡幽灵 <color=orange>+2</color>
+SLIMY DEATH GHOST <color=orange>+2</color>	黏液死亡幽灵 <color=orange>+2</color>
+EXPLOSIVE GOLD <color=orange>+1</color>	爆炸金币 <color=orange>+1</color>
+EXTRA BARRELS <color=orange>+1</color>	额外木桶 <color=orange>+1</color>
+EXTRA GOBLINS <color=orange>+1</color>	额外哥布林 <color=orange>+1</color>
+EXTRA SKELETONS <color=orange>+3</color>	额外骷髅 <color=orange>+3</color>
+EXTRA SPIDERS <color=orange>+2</color>	额外蜘蛛 <color=orange>+2</color>
+LEFT HAND SLAPS ONLY <color=orange>+3</color>	仅左手掌击 <color=orange>+3</color>
+RIGHT HAND SLAPS ONLY <color=orange>+3</color>	仅右手掌击 <color=orange>+3</color>
+LUCKY CURSE! FULL HEAL <color=orange>+3</color>	幸运诅咒！完全治愈 <color=orange>+3</color>
+START AT 25HP <color=orange>+2</color>	以 25 生命开局 <color=orange>+2</color>
+START AT HALF HP <color=orange>+1</color>	以半血开局 <color=orange>+1</color>
+MAX ARMOR -50% <color=orange>+1</color>	护甲上限 -50% <color=orange>+1</color>
+ARMOR RECHARGE -50% <color=orange>+1</color>	护甲回复 -50% <color=orange>+1</color>
+HEALTH DRAIN +25% <color=orange>+1</color>	生命流失 +25% <color=orange>+1</color>
+HEALTH DRAIN +50% <color=orange>+2</color>	生命流失 +50% <color=orange>+2</color>
+HEALTH DRAIN +100% <color=orange>+3</color>	生命流失 +100% <color=orange>+3</color>
+HEALTH DRAIN CURSE <color=orange>+2</color>	生命流失诅咒 <color=orange>+2</color>
+MOVE SPEED -10% <color=orange>+1</color>	移动速度 -10% <color=orange>+1</color>
+MOVE SPEED -20% <color=orange>+2</color>	移动速度 -20% <color=orange>+2</color>
+FOOD +50%	食物 +50%
++25% DAMAGE TAKEN <color=orange>+1</color>	受到伤害 +25% <color=orange>+1</color>
++50% DAMAGE TAKEN <color=orange>+3</color>	受到伤害 +50% <color=orange>+3</color>
++25% damage taken	受到伤害 +25%
++25% faster health drain	生命流失加快 25%
++50% Damage	伤害 +50%
++50% damage taken	受到伤害 +50%
++50% faster health drain	生命流失加快 50%
+-50% Damage taken	受到伤害 -50%
+75% Slower health drain	生命流失减缓 75%
+BASE DAMAGE -25%	基础伤害 -25%
+CRIT Damage +50%	暴击伤害 +50%
+Crit chance +3%	暴击率 +3%
+Health drains 	生命流失 
+Armor +10	护甲 +10
+Armor recharge +200%	护甲回复 +200%
++1 HP from kills	击杀回复生命 +1
++50% health from kills	击杀回复生命 +50%
+Zero HP from kills	击杀不回复生命
+Zero Health from kills	击杀不回复生命
++1 Revival on death	死亡复活 +1
++2 Golden Horns in the starting room	开局房间 +2 金角
++2 Gold in starting room	开局房间 +2 金角
+Foes drop more gold	敌人掉落更多金币
+Food turns to gold	食物变金币
+Cheaper re-rolls	重抽更便宜
+Discount re-rolls	重抽打折
+Earn interest on saved Gold	存款生息
+Earns interest on saved gold	存款生息
+You can no longer eat	你无法再进食
+You cannot eat food	你无法进食
+Vampires do not eat	吸血鬼不吃东西
+You lucky duck	幸运儿
+CURSE OF THE DUNGEON ACTIVATED	地牢诅咒已生效
+You have accepted the maximum number of curses for this zone. Good luck	你已拿满本区域的诅咒上限。祝好运
+Take a random curse for the next zone (Max 	为下一区域抽一条随机诅咒（上限 
+KILL 	击杀 
+ TO OPEN GATES	 以开启闸门
+BOSS	首领
+INVULNERABLE	无敌
+Cursed	受诅
+LOW HP WARNING 	低生命警告 
+HEALTH WILL DRAIN IN 5	生命将在 5 秒后流失
+HEALTH DRAINS IN 	生命将在  秒后流失
+SELECT 2 ITEMS	选择 2 件物品
+SELECT BEAST	选择兽形
+SELECT BODY EQUIPMENT	选择身体装备
+SELECT CLASS	选择出身
+SELECT DIFFICULTY LEVEL	选择难度
+SELECT TRANSFORMATION BEAST	选择变身兽形
+SELECT 	选择 
+CLASS SELECTED	已选择出身
+BEAST SELECTED	已选择兽形
+BODY EQUIPMENT SELECTED	已选择身体装备
+ARTIFACTS SELECTED	已选择器物
+ALL STAT POINTS APPLIED	属性点已用完
+STAT POINT	属性点
+STAT POINTS	属性点
+ARTIFACTS	器物
+MORE ARTIFACT	更多器物
+MORE ARTIFACTS	更多器物
+PRIMARY and SECONDARY	主手与副手
+Equipment - weapon	装备 - 武器
+Equipment - Weapon	装备 - 武器
+Equipment - Body	装备 - 身体
+Equipment - Body - Cursed	装备 - 身体 - 受诅
+Equipment - Body - Deeply Cursed	装备 - 身体 - 深咒
+Equipment - Head	装备 - 头部
+Equipment - Head - Cursed	装备 - 头部 - 受诅
+Equipment - Head - Deeply Cursed	装备 - 头部 - 深咒
+L WEAPON	左手武器
+R WEAPON	右手武器
+LMB	鼠标左键
+CONTROLS	操作
+DASH	冲刺
+JUMP	跳跃
+KICK	踢击
+Move	移动
+Jump	跳跃
+Dash	冲刺
+Kick	踢击
+MOVE FORWARD	前进
+MOVE BACK	后退
+MOVE LEFT	左移
+MOVE RIGHT	右移
+Left Attack	左手攻击
+Right Attack	右手攻击
+Mouse X	鼠标 X
+Mouse Y	鼠标 Y
+REMAP CONTROLS	改键
+MASTER VOLUME	主音量
+MUSIC VOLUME	音乐音量
+SFX VOLUME	音效音量
+MOUSE SENSITIVITY	鼠标灵敏度
+EASY	简单
+STANDARD	标准
+EASY EFFECTS	简单效果
+STANDARD EFFECTS	标准效果
+DESCENSION LEVEL 1	降阶 1
+DESCENSION LEVEL 2	降阶 2
+DESCENSION LEVEL 3	降阶 3
+DESCENSION LEVEL 4	降阶 4
+DESCENSION LEVEL 5	降阶 5
+DESCENSION 1 EFFECTS	降阶 1 效果
+DESCENSION 2 EFFECTS	降阶 2 效果
+DESCENSION 3 EFFECTS	降阶 3 效果
+DESCENSION 4 EFFECTS	降阶 4 效果
+DESCENSION 5 EFFECTS	降阶 5 效果
+Beat Descension 1 to\nunlock the next level	打败降阶 1\n解锁下一档
+Beat Descension 2 to\nunlock the next level	打败降阶 2\n解锁下一档
+Beat Descension 3 to\nunlock the next level	打败降阶 3\n解锁下一档
+Beat Descension 4 to\nunlock the next level	打败降阶 4\n解锁下一档
+Beat Standard to\nunlock the next level	打败标准难度\n解锁下一档
+No buffs, no debuffs	无增益，无减益
+No effects.	无特殊效果。
+Even more monsters	怪物还要多
+More monsters	怪物更多
+Higher level monsters	怪物更强
+Monsters have more HP	怪物生命更高
+Descension unlocked!	解锁降阶！
+Descension 1 unlocked!	解锁降阶 1！
+Descension 2 unlocked!	解锁降阶 2！
+Descension 3 unlocked!	解锁降阶 3！
+Descension 4 unlocked!	解锁降阶 4！
+Descension 5 unlocked!	解锁降阶 5！
+New Loadout option unlocked!	解锁新装备选项！
+Starter item unlocked!	解锁初始物品！
+Level up 	升级到 
+Level reached: 1	到达区域：1
+Zone reached: 	已到达区域：
+Enemies defeated: 	击杀敌人：
+Experience gained: 	获得经验：
+Killed by 	死于
+Killed by cultist goblin's fireball	死于邪教徒哥布林的火球
+Reached the Golden Gem	夺得黄金宝石
+You Died.	你死了。
+You died.	你死了。
+DEFEAT	战败
+VICTORY	胜利
+Final Zone: Berserker's Tomb	最终区域：狂战士墓穴
+Zone times:	各区用时：
+last zone: 	上一区域：
+Time: 	用时：
+total kills	总击杀
+Total kills	总击杀
+A GAME BY ADAM TRAVERS	出品：ADAM TRAVERS
+VERSION 1.0	版本 1.0
+LOADING...	载入中...
+Wishlist	愿望单
+Zone 1: Exit Shaft	区域 1：出口竖井
+Zone 1: Acid Way	区域 1：酸路
+Zone 2: Lava Bridge	区域 2：熔岩桥
+Zone 2: Spider Caves	区域 2：蜘蛛洞
+Zone 2: Spider Caverns	区域 2：蜘蛛洞
+Zone 3: Goblin City	区域 3：哥布林城
+Zone 3: Slimy Sewers	区域 3：下水道
+Zone 4: Deep Forest	区域 4：深林
+Zone 4: Grave Town	区域 4：墓地
+Zone 5: The Temple	区域 5：神庙
+Zone 5: The Ramparts	区域 5：城垛
+Zone 6: The Stairway	区域 6：楼梯
+Zone 7: The Gates	区域 7：城门
+Zone 1 Exit Shaft	区域 1 出口竖井
+Exit Shaft	出口竖井
+Acid Way	酸路
+Lava Bridge	熔岩桥
+Spider Caverns	蜘蛛洞
+Spider Caves	蜘蛛洞
+Goblin City	哥布林城
+Slimy Sewers	下水道
+Deep Forest	深林
+Grave Town	墓地
+The Temple	神庙
+The Ramparts	城垛
+The Stairway	楼梯
+The Gates	城门
+Berserker's Tomb	狂战士墓穴
+Easy	简单
+Standard	标准
+Descension 1	降阶 1
+Descension 2	降阶 2
+Descension 3	降阶 3
+Descension 4	降阶 4
+Descension 5	降阶 5
+Exit Shaft - Defeated	出口竖井 - 战败
+Acid Way - Defeated	酸路 - 战败
+Lava Bridge - Defeated	熔岩桥 - 战败
+Spider Caverns - Defeated	蜘蛛洞 - 战败
+Goblin City - Defeated	哥布林城 - 战败
+Slimy Sewers - Defeated	下水道 - 战败
+Deep Forest - Defeated	深林 - 战败
+Grave Town - Defeated	墓地 - 战败
+The Temple - Defeated	神庙 - 战败
+The Ramparts - Defeated	城垛 - 战败
+Berserker's Tomb - Defeated	狂战士墓穴 - 战败
+<color=orange> BEST</color>	<color=orange> 最佳</color>
+BEST	最佳
+ - Defeated	 - 战败
+FINISH TIME - 	通关用时 -
+Go to Exit Shaft	前往出口竖井
+Go to Acid Way. Get extra rewards	前往酸路。有额外奖励
+Go to Lava Bridge. Get extra rewards	前往熔岩桥。有额外奖励
+Go to Spider Caverns	前往蜘蛛洞
+Go to Goblin City	前往哥布林城
+Go to Slimy Sewers. Get extra rewards	前往下水道。有额外奖励
+Go to Deep Forest	前往深林
+Go to Grave Town. Get extra rewards	前往墓地。有额外奖励
+Go to The Temple	前往神庙
+Go to The Ramparts. Get extra rewards	前往城垛。有额外奖励
+Go to Berserker's Tomb. Final Zone	前往狂战士墓穴。最终区域
+Proceed to an alternate Zone	进入替代区域
+Touch to complete this Zone	触碰以完成本区域
+Touch to take Golden Horn	触碰以拾取金角
+Get to the magic <color=#C538FD>Crystal</color> to finish the zone. 	触碰魔法<color=#C538FD>水晶</color>完成本区域。
+Good luck, Berserker.	祝你好运，狂战士。
+APPLY 	应用 
+Crit Chance +	暴击率 +
+Crit chance +	暴击率 +
+Crit Damage +	暴击伤害 +
+Damage +	伤害 +
+Damage +  	伤害 +
+Armor +	护甲 +
+Max Armor +	护甲上限 +
+Max HP +	生命上限 +
+Max HP -	生命上限 -
+Max Stamina +	充能上限 +
+Stamina +	充能 +
+Food level -	食欲等级 -
+Difficulty has been set to 	难度已设为 
++1% base Damage for every point of Deferred Damage, capped at 	每点迟滞伤害 +1% 基础伤害，上限为 
++2% base Damage for every point of Armor, capped at 	每点护甲 +2% 基础伤害，上限为 
++5% Base Damage for every Gold, capped at 	每枚金币 +5% 基础伤害，上限为 
+Damage is deferred over 	伤害迟滞延迟（秒）：
+Damage is deferred over 0 seconds	伤害迟滞为 0 秒
+Restores +1 HP	恢复 +1 生命
+Restores +25 HP	恢复 +25 生命
+Restores +50 HP	恢复 +50 生命
+Restores +75 HP	恢复 +75 生命
+Restores +100 HP	恢复 +100 生命
+Restores +150 HP	恢复 +150 生命
+Magically Upgraded	魔法强化
+Heavily Magically Upgraded	深度魔法强化
+Lvl.25 MAX	25 级（满级）
+Red Potion	红药水
+White Mushroom	白蘑菇
+Purple Mushroom	紫蘑菇
+Snake Eyes	蛇眼骰
+Sharp Fangs	利齿
+Fury Potion	怒药
+Gilded Ribcage	镀金肋骨
+Static Spark	静电火花
+Ambrosia	神肴
+Dragon Scale	龙鳞
+Dragon Skull	龙颅
+Horn Of Plenty	丰饶之角
+Lucky Charm	幸运饰物
+Kangaroo Tail	袋鼠尾
+Vampire Bat	吸血蝙蝠
+Wizard's Cloak	法师斗篷
+Wizard Robe	法师长袍
+Round Shield	圆盾
+Spiked Shield	尖刺盾
+Battle Axe	战斧
+Repeating Crossbow	连弩
+Ballista	弩炮
+Bone Rifle	骨步枪
+Bommy Knocker	大头棒
+Crab Gun	蟹炮
+Clay Cannon	陶炮
+Flanged Mace	凸缘锤
+General's Glaive	将军长刀
+Icy Orb	冰球
+Lich Hand	巫妖手
+Necrotic Grenade	死灵手雷
+Throwing Axe	飞斧
+Wizard's Staff	法杖
+Worm Cannon	蠕虫炮
+Boomerang	回旋镖
+Green Horn	绿角
+Heavy Plate	重甲
+Iron Plate	铁板甲
+Full Helm	全盔
+Goat Mask	山羊面具
+Eye Patch	眼罩
+Peasant Cap	农夫帽
+Rogue's Jacket	盗贼夹克
+Spine Crown	脊冠
+Unblinking Eye	不眨之眼
+Pet Leech	宠物水蛭
+Cockatrice Feather	鸡蛇羽毛
+War Paint	战绘
+Mantis	螳螂
+Chimera	奇美拉
+Banker's Lamp	银行家灯
+Machine Heart	机关之心
+Homonculus	人造小人
+Zombiemonculus	僵尸小人
+Plated Belt	板甲腰带
+Scroll of Fire	火之卷轴
+Scroll of Frost	冰之卷轴
+Scroll of Necrosis	死灵卷轴
+Scroll of Upgrade	升级卷轴
+Scroll of Upgrade Shop	商店升级卷轴
+Suckling Pig	乳猪
+Roast Chicken	烤鸡
+Fancy Cake	花式蛋糕
+Bread	面包
+Apple	苹果
+Grants protection and the edge works as a weapon	提供防护，锋刃亦可作武器
+Grants protection and ideal for bashing	提供防护，适合敲击
+Solid steel to keep nasty blows at bay	坚钢铸就，抵挡恶击
+Superbly crafted arm guards that barely fit	工艺精良的护臂，勉强合身
+Enhances the wearer's mobility	提升穿戴者的机动性
+Utterly uncomfortable, builds character	极其难受，磨砺心性
+Good for the constitution	有益体格
+A pleasing green glow to relax/study to	一抹宜人的绿光，助你放松静心
+Ice cold faith. Stirred, not shaken	冰冷的信仰。只可搅拌，不可摇晃
+Belonged to a powerful enchanter. Some called him 'Tim'	曾属于一位强大的附魔师。有人叫他"蒂姆"
+Enhanced support for bootin'	强化你的靴踢
+Kicks get increased knockback	踢击击退更强
+You kick with increased force	踢击力量更强
+Good for punching. Can be upgraded and enchanted	适合挥拳。可升级与附魔
+Can be charged and thrown with precision	可蓄力精准投掷
+Normally used as artillery, shoots through foes. 	通常用作炮击，可贯穿敌人。
+Devastates a wide area	大范围毁灭性打击
+Rapid-fire yet inaccurate contrapion	射速极快却欠准头的弩炮
+Impractical, yet deadly	不实用，却致命
+Cut from a beast of Avarice	取自贪婪之兽
+Dark sockets gaze silently	深陷的眼窝无声凝视
+Its true form has never been confirmed	其真身从未被证实
+Serpentine Terror of Legend	传说中的蛇形恐怖
+Twisted Venomous Maneater	扭曲的剧毒食人兽
+Flame-belching overlord of the Ashlands	灰烬之地的喷火霸主
+Mighty protector of the Treelands	树林的强大守护者
+Overgrown fiend of the Swarmlands	虫群之地的巨怪
+Poisonous predator of the Rocklands	岩石之地的剧毒猎手
+Form-changing entity of the Warplands	变形之地的形体变幻者
+The King of the Forest	森林之王
+A magical leech, cute	一只魔法水蛭，很可爱
+Handy Portable Nosferatu	便携小诺斯费拉图
+Reject blood. Embrace oil	拒绝鲜血，拥抱机油
+A working wing powered by your heart	由你的心脏驱动的翅膀
+Emerged from an inner journey	从内心之旅中觉醒
+Embodiment of fearlessness	无畏的化身
+Resourceful and unscrupulous	足智多谋，不择手段
+Nobleman's spatha, worn dull by time	贵族的长剑，被岁月磨钝
+Incredible battle weapon and a peerless treasure	绝世战兵，无双珍宝
+Crackles with its maker's volatile magic	噼啪作响，带着制作者不稳定的魔法
+Crackles with magical potential	噼啪作响，蕴含魔法潜能
+Salvaged sorceror's skull, shoots bursts of plasma	拾来的术士头骨，发射等离子爆裂
+Product of a botched summoning, shoots plasma	召唤失败的产物，发射等离子
+Skull of a small dragon. Still working	小龙的颅骨，还能用
+The scale of a Great Red Dragon. Grants immunity to explosions.	巨大红龙的鳞片。免疫爆炸。
+Cornucopia of legend, provides infinite sustenance. Only works in dungeon	传说中的丰饶角，取之不尽。只在地牢内生效
+Glistening with shamanic toxins. Start levels with +25 Berserk for each of these.	闪烁着萨满毒液。每持一件，开局狂暴 +25。
+Each belt increases your Max Armor by 15. Armor recharges when you are not being hit.	每条腰带护甲上限 +15。未被击中时护甲回复。
+Power to attack for longer. Each mushroom increases your max stamina by 25%	让你打得更久。每朵蘑菇充能上限 +25%
+This hapless creature is consumed to restore a life's essence	这只倒霉生物将被食用，以恢复生命本源
+This snake was once a great gambler	这条蛇曾是赌场高手
+My, what big teeth you have. Each pair grants +1 HP from kills.	好大的牙。每对击杀回复 +1 生命。
+Snow Globe of legend. The beam freezes on contact	传说中的雪花球。光束接触即冻结
+Immortality, with conditions	有条件的不死
+A taste of godhood. Grants +1 Resurrection.	神明的一口。复活 +1。
+Inflicts extremely rapid decomposition	造成极速腐烂
+This crude implement can be thrown and kicked	这件粗陋器具可以投掷也可以踢
+A suspended spark of brutality. Each spark increases your critical hit chance by 7%	一粒悬停的暴虐火花。每粒暴击率 +7%
+Distilled essence of Fervent Fury. Each draught grants +25% base damage but increases health drain by 25%.	沸腾怒火的蒸馏精华。每口基础伤害 +25%，但生命流失加快 25%。
+Rare toxins enhance natural vigor. Each draught increases your maximum HP by 25	稀有毒素强化体魄。每口生命上限 +25
+These despicable creatures are fearsome at their last	这些卑鄙生物临死前最是凶残
+A nasty iron shield that deals more damage when dashing	恶狠狠的铁盾，冲刺时伤害更高
+Ancient weapon that wants to come home	渴望归乡的古代兵器
+Fitted with flanges to flay foes faster	装了凸缘，剥皮更快
+To Miklagard in search of glory and riches	远征米克拉加德，追寻荣华富贵
+Never to blink, never to rest	永不眨眼，永不休憩
+Lucrative cursed cutlery	生财有咒的餐具
+Give it harder than you can take it	打得比挨的更狠
+An insect horror that only knows hunger	只知饥饿的虫豸恐怖
+Berserker of legend, paragon of violence	传说狂战士，暴力的化身
+Legendary Berserker, paragon of Violence	传说狂战士，暴力的化身
+Beast Limb. Replaces a limb of your Beast Form. Powerful crustacean artillery	兽肢。替换兽形的一肢。强力的甲壳炮
+Beast Limb. Replaces a limb of your Beast Form. Sucks out bones and spits them back	兽肢。替换兽形的一肢。吸出骨头再吐回去
+Beast Limb. Replaces a limb of your Beast Form. Summons Bone Tornados	兽肢。替换兽形的一肢。召唤骨龙卷
+Consumable. Enchants one weapon so that it inflicts burning	消耗品。为一件武器附魔灼烧
+Consumable. Enchants one weapon so that it inflicts cold	消耗品。为一件武器附魔冻结
+Consumable. Enchants one weapon so that it inflicts exploding corpse	消耗品。为一件武器附魔死灵爆尸
+Consumable. Upgrades all current and future Shop Weapons	消耗品。升级当前与未来的商店武器
+Artifact. +1 HP recovery from kills	器物。击杀回血 +1
+Artifact. +1 Resurrection	器物。复活 +1
+Artifact. Base damage +25%. HP drains 25% faster	器物。基础伤害 +25%。生命流失加快 25%
+Artifact. Increases base critical hit chance by 7%	器物。基础暴击率 +7%
+Artifact. Increases max stamina by 15%	器物。充能上限 +15%
+Artifact. Increases maximum HP by 25	器物。生命上限 +25
+Artifact. Makes you immune to explosions	器物。免疫爆炸
+Artifact. Max Armor +15	器物。护甲上限 +15
+Artifact. Start each level with +25% Berserk	器物。每区开局狂暴 +25%
+Tier-1 Weapon. A reliable blade at close quarters	一阶武器。近身可靠的利刃
+Tier-1 Weapon. Blasts plasma at foes	一阶武器。向敌人喷射等离子
+Tier-1 Weapon. Charge for more damage	一阶武器。蓄力提高伤害
+Tier-1 Weapon. Ingenious automatic design	一阶武器。精巧的自动设计
+Tier-1 Weapon. Knocks enemies back. Max Armor +20	一阶武器。击退敌人。护甲上限 +20
+Tier-2 Weapon. Dangerous grenade that makes corpses explode	二阶武器。让尸体爆炸的危险手雷
+Tier-2 Weapon. Deals more damage when dashing	二阶武器。冲刺时伤害更高
+Tier-2 Weapon. Emits an icy beam that freezes foes	二阶武器。射出冻结敌人的寒冰光束
+Tier-2 Weapon. Hefty damage with wide range	二阶武器。伤害沉重，范围宽广
+Tier-2 Weapon. Piercing projectile that comes back	二阶武器。贯穿敌人还会飞回
+Tier-2 Weapon. Shoots dangerous explosive fireballs	二阶武器。发射危险的爆炸火球
+Tier-2 Weapon. Short-range projectile that deals high damage	二阶武器。近距离高伤害弹体
+Tier-2 Weapon. Spews dragonfire that sets foes alight	二阶武器。喷吐龙焰点燃敌人
+Tier-3 Weapon. Automatic fireball launcher	三阶武器。自动火球发射器
+Tier-3 Weapon. Cleaves through a wider area	三阶武器。劈砍范围更宽
+Tier-3 Weapon. Sends forth a stream of plasma	三阶武器。倾泻等离子流
+Tier-3 Weapon. Shoots a heavy javelin that pierces foes	三阶武器。发射贯穿敌人的重型标枪
+Tier-3 Weapon. Swings rapidly to pummel foes	三阶武器。快速挥击痛殴敌人
++Bear Slash         +Bear Kick	+熊掌攻击         +熊踢
++Fire Breath      +Tail Slap	+火焰吐息      +甩尾抽击
++Poison Spines       +Cat Claws	+毒刺       +猫爪
++Twin scythes     +Healing Bite	+双镰     +治愈之咬
++Limbs change upon Transformation      +25% beast damage	+变身时肢体随机变化      +25% 兽形伤害
+goatman's club	山羊人的木棒
+goblin's hatchet	哥布林的短斧
+little goblin's hatchet	小哥布林的短斧
+goblin shaman's fireball	哥布林萨满的火球
+skeleton's axe	骷髅的斧头
+skeleton queen's acid rain	骷髅女王的酸雨
+spider's fangs	蜘蛛的獠牙
+slime lord's slimeball	史莱姆领主的黏液球
+slime lord's slime-spikes	史莱姆领主的黏液尖刺
+slime minion's slimeball	史莱姆仆从的黏液球
+troll's claws	巨魔的利爪
+troll's rock	巨魔的石头
+giant skeleton's blade	巨型骷髅的大刀
+eyebeast's particle beam	眼兽的粒子光束
+eyebeast knight's melee	眼魔骑士的近战
+eyebeast knight's sword	眼魔骑士的长剑
+eyebeast knight's particle beam	眼魔骑士的粒子光束
+your own fireball	你自己的火球
+your own necrotic grenade	你自己的死灵手雷
+immersion in lava	陷入熔岩
+immersion in acid	陷入酸液
+the touch of a death ghost	死亡幽灵的触碰
+an exploding corpse	爆炸的尸体
+an exploding gold coin	爆炸的金币
+exploding goblin	爆炸哥布林
+exploding terracotta barrel	陶土爆炸桶
+hydra burn	九头蛇灼烧
+hydra hiss	九头蛇嘶咬
+falling into storm clouds	坠入雷暴云
+hit with storm cloud	被雷暴云击中
+1. EXIT SHAFT <color=orange>+2</color>	1. 出口竖井 <color=orange>+2</color>
+2. SPIDER TEST <color=white>01:22</color> <color=orange>BEST</color>	2. 蜘蛛洞测试 <color=white>01:22</color> <color=orange>最佳</color>
+3. DEEP FOREST - DEFEATED	3. 深林 - 战败
+DEATH'S DOOR	濒死之门
++1 Air Jump	+1 空中跳跃
++1 Max Dash	+1 冲刺次数
++25% Dash Recharge	冲刺回复 +25%
++30% Stamina Recharge	充能回复 +30%
++25 Max Stamina	充能上限 +25
++10 Armor	护甲 +10
++10% Damage Taken	受到伤害 +10%
++10% base damage	基础伤害 +10%
++15% base Damage	基础伤害 +15%
++20 Maximum HP	生命上限 +20
++20% Max HP	生命上限 +20%
++200% faster Armor recharge	护甲回复 +200%
++50% base damage	基础伤害 +50%
++50% base damage when on Death's Door	濒死时基础伤害 +50%
++7% Crit Chance	暴击率 +7%
++7% crit chance	暴击率 +7%
+-10 Max HP	生命上限 -10
+-15% Movement Speed	移动速度 -15%
+-15% Movement speed	移动速度 -15%
+-20% Maximum HP	生命上限 -20%
+-25% Damage Taken	受到伤害 -25%
+-25% damage taken	受到伤害 -25%
+-5% Movement Speed	移动速度 -5%
+-5% Movement speed	移动速度 -5%
++1	+1
++2	+2
++3	+3
++Bear Slash         +Bear Kick 	+熊掌攻击         +熊踢 
++Burning	+灼烧
++Exploding Corpse	+死灵爆尸
++Explosion Immunity	+免疫爆炸
++Freezing	+冻结
++25% Health Drain	生命流失 +25%
+Armor recharge +200% 	护甲回复 +200%
+STRENGTH	力量
+DEXTERITY	敏捷
+ENDURANCE	耐力
+VITALITY	体质
+Berserker	狂战士
+Brigand	盗匪
+Stalwart	坚毅
+Hermit	隐士
+Varangian	瓦兰吉
+Berserker Mode	狂战士模式
+Swing weapon	挥动武器
+Switch Form	切换形态
+Ascend	升格
+Ascension	升格
+Accept Curse 	接受诅咒
+Eat Food 	进食
+Take Item 	拿取物品
+Strength of the shake for each axis.	各轴抖动强度。
+Frequency of shaking.	抖动频率。
+Number of vibrations before stop.	停止前振动次数。
+Radius in which shake doesn't lose strength.	抖动不衰减的半径。
+Randomness of motion.	运动的随机性。
+How fast strength falls with distance.	强度随距离衰减的速度。
+Layers of perlin noise with different frequencies.	不同频率的柏林噪声叠加层。
+ Movement Settings	移动设置
+ Rotation Settings	旋转设置
+Movement Settings	移动设置
+Rotation Settings	旋转设置
+Whether or not to invert our Y axis for mouse input to rotation.	是否反转鼠标 Y 轴输入。
+Welcome to the first zone of the dungeon, your prison. \n\n<color=#AD975A>Win</color> by escaping from this place.	欢迎来到地牢的第一区域，你的监狱。\n\n<color=#AD975A>逃出去</color>即为胜利。
+The curse of the dungeon drains your HP constantly. \n\nRefill your HP by defeating monsters and reach the exit quickly.	地牢诅咒会持续扣你的血。\n\n击杀敌人回血，尽快抵达出口。
+The curse of the dungeon will constantly drain your <color=#FD3A31>HP</color>.\n\nRefill your <color=#FD3A31>HP</color> by killing monsters. Run out of <color=#FD3A31>HP</color>, you die.	地牢诅咒会持续消耗你的<color=#FD3A31>生命</color>。\n\n击杀敌人回复<color=#FD3A31>生命</color>。生命耗尽即死。
+Killing monsters also increases your <color=#C538FD>Berserk</color> meter. \n\nFill it up to transform into your powerful Beast Form. 	击杀敌人还会涨<color=#C538FD>狂暴</color>槽。\n\n攒满即可变身为强大的兽形。
+Outside this room, the curse will drain your   Health. \n\nKill enemies to increase your   Health and   Berserk.\nMax your   Berserk to Transform.	离开这个房间，诅咒就会持续消耗你的生命。\n\n杀怪回复生命并积累狂暴。\n攒满狂暴即可变身。
+Fist	拳头
+Haunted Skull	闹鬼骷髅头
+Enchanter's Staff	附魔师之杖
+Dragon's Wing	龙翼
+Midas Fork	点金叉
+Golden Horn	金角
+Body - Weapon	身体 - 武器
+ascension ready	升格就绪
+KILL X TO OPEN GATES	击杀 X 以开启闸门
+The first ability to reach level 4 determines the fourth ability	最先升到 4 级的能力将成为第四能力
+Ornate device, crafted from a sorceror's spine.	精巧的装置，以术士的脊柱制成。
+Transformation Beast	变身兽形
+Original Berserk Mode	原版 Berserk Mode
+You've beaten the Berserk Mode alpha demo. Thanks for playing!	你已通关 Berserk Mode 的 alpha 演示版。感谢游玩！
+Level up!	升级！
+Item name	物品名称
+Item description. A short description of the item that we need to describe. 	物品描述。需要为这个物品撰写的一段描述。
+1. TEST LEVEL <color=white>01:22</color> 	1. 测试关 <color=white>01:22</color> 
+2. SPIDER TEST <color=white>00:59</color> <color=orange>BEST</color>	2. 蜘蛛洞测试 <color=white>00:59</color> <color=orange>最佳</color>
+Beat Descension 1 to	打败降阶 1
+Beat Descension 2 to	打败降阶 2
+Beat Descension 3 to	打败降阶 3
+Beat Descension 4 to	打败降阶 4
+Beat Standard to	打败标准难度
+unlock the next level	解锁下一档
+Welcome to the first zone of the dungeon, your prison. 	欢迎来到地牢的第一区域，你的监狱。 
+<color=#AD975A>Win</color> by escaping from this place.	<color=#AD975A>逃出去</color>即为胜利。
+The curse of the dungeon drains your HP constantly. 	地牢诅咒会持续扣你的血。 
+Refill your HP by defeating monsters and reach the exit quickly.	击杀敌人回血，尽快抵达出口。
+The curse of the dungeon will constantly drain your <color=#FD3A31>HP</color>. 	地牢诅咒会持续消耗你的<color=#FD3A31>生命</color>。 
+Refill your <color=#FD3A31>HP</color> by killing monsters. Run out of <color=#FD3A31>HP</color>, you die.  	击杀敌人回复<color=#FD3A31>生命</color>。生命耗尽即死。 
+Killing monsters also increases your <color=#C538FD>Berserk</color> meter. 	击杀敌人还会涨<color=#C538FD>狂暴</color>槽。 
+Fill it up to transform into your powerful Beast Form. 	攒满即可变身为强大的兽形。 
+Outside this room, the curse will drain your   Health. 	离开这个房间，诅咒就会持续消耗你的生命。 
+Kill enemies to increase your   Health and   Berserk.	杀怪回复生命并积累狂暴。
+Max your   Berserk to Transform.	攒满狂暴即可变身。
+Reach the Gem to Win.	触到宝石即为胜利。
+SHIELD Damage +50%	护盾伤害 +50%
+Option A	选项 A
+Bear	熊
+Manticore	蝎狮
+Hydra	九头蛇
+BERSERKER	狂战士
+BRIGAND	盗匪
+STALWART	坚毅
+HERMIT	隐士
+VARANGIAN	瓦兰吉
+Vambraces	护臂
+Abilities: Fury, Vigor & Endurance	能力：狂怒、活力与耐力
+Abilities: Meditation, Instinct & Detachment	能力：冥想、直觉与迟滞
+Abilities: Perception, Cruelty & Sprinting	能力：感知、残忍与疾跑
+Abilities: Shielding, Smiting & Endurance	能力：护盾、惩戒与耐力
+Abilities: Vigor, Shielding & Avarice	能力：活力、护盾与贪婪
+EXTRA SKELETONS	额外骷髅
+EXTRA GOBLINS	额外地精
+EXTRA BARRELS	额外木桶
+EXPLOSIVE GOLD	爆炸金币
+DEATH GHOST	死亡幽灵
+SPEEDY DEATH GHOST	迅捷死亡幽灵
+SLIMY DEATH GHOST	粘液死亡幽灵
+LUCKY CURSE! FULL HEAL	幸运诅咒！满血回复
+LEFT HAND SLAPS ONLY	仅限左手拍击
+RIGHT HAND SLAPS ONLY	仅限右手拍击
+START AT 25HP	以 25 生命起步
+START AT HALF HP	以半血起步
+MAX ARMOR -50%	护甲上限 -50%
+ARMOR RECHARGE -50%	护甲回复 -50%
+MOVE SPEED -10%	移动速度 -10%
+MOVE SPEED -20%	移动速度 -20%
++25% DAMAGE TAKEN	受到伤害 +25%
+EZ	简单
+D1	降阶1
+D2	降阶2
+D3	降阶3
+D4	降阶4
+D5	降阶5
+Outside this room, the curse will drain your   Health. \nKill enemies to increase your   Health and   Berserk.\nMax your   Berserk to Transform.\nReach the Gem to Win.	离开这个房间，诅咒就会持续消耗你的生命。\n杀怪回复生命并积累狂暴。\n攒满狂暴即可变身。\n触到宝石即为胜利。
+Get to the magic <color=#C538FD>Crystal</color> to finish the zone. \n\nGood luck, Berserker.	抵达魔法<color=#C538FD>水晶</color>即可完成区域。\n\n祝好运，狂战士。
+ST	标准
+Sword	剑
+Tankard	大酒杯
+Fury	狂怒
+Vigor	活力
+Meditation	冥想
+Instinct	直觉
+Perception	感知
+Cruelty	残忍
+Shielding	护盾
+Smiting	惩戒
+Transform	变身
+FINISH TIME	完成用时
+last zone	上一区域
+VAMPIRISM	吸血
+waiting...	请按键…
+Consumable. Magically upgrades the damage of one weapon.\n\nUpgraded weapons buff Beast damage on that side	消耗品。魔法强化一件武器的伤害。\n\n强化后的武器会提升该侧的兽形伤害
+Endurance	耐力
+Sprinting	疾跑
+Detachment	迟滞
+Avarice	贪婪
+Vampirism	吸血
+Membership	会员
+Looting	搜刮
+Class	职业
+Artifact	器物
